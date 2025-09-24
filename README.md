@@ -1,2 +1,2 @@
 # Weight-Converter
-A simple weight converter that converts between kg to lbs. It has a Java console app and a simple HTML/JavaScript web version
+This project provides a basic weight converter that lets users convert between kilograms and pounds. It includes a Java console application and a standalone HTML/JavaScript web page.
